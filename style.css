@@ -43,14 +43,14 @@ button {
     padding: 20px;
     font-size: 1.2em;
     border: none;
-    background:#a1cdec;
+    background:#9deec6;
     border-radius: 5px;
     cursor: pointer;
     transition: all 0.3s;
 }
 
 button:hover {
-    background: #bbdefb;
+    background: #6cb3ee;
 }
 
 button:active {
